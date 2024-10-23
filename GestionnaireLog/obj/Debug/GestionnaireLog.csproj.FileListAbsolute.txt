@@ -1,0 +1,10 @@
+C:\Users\nboun\dev\csharp\GestionnaireLog\bin\Debug\GestionnaireLog.exe.config
+C:\Users\nboun\dev\csharp\GestionnaireLog\bin\Debug\GestionnaireLog.exe
+C:\Users\nboun\dev\csharp\GestionnaireLog\bin\Debug\GestionnaireLog.pdb
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.csproj.AssemblyReference.cache
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.main.resources
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.Properties.Resources.resources
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.csproj.GenerateResource.cache
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.csproj.CoreCompileInputs.cache
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.exe
+C:\Users\nboun\dev\csharp\GestionnaireLog\obj\Debug\GestionnaireLog.pdb
