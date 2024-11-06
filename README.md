@@ -28,7 +28,8 @@ git clone https://github.com/Kurhast/gestionnaire-de-log.git
     - Allez dans le menu **Build > Build** Solution pour compiler l'application.
 4. **Exécuter l'application :**
     - Lancez l'application
-5. **Alternative :**
+
+ - **Alternative :**
     - Après avoir cloner de dépôt, naviguer dans `bin/Debug` et lancer le `.exe`
 
 ## Utilisation
